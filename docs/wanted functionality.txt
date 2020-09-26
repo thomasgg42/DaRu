@@ -1,0 +1,11 @@
+* Monthly consumer products
+ - price history, chain separation
+ - average consumption time. Based on own statistics
+ - average 'best before' after breaking seal. Based on own statistics
+ - recipes and how to's based on own statistics
+
+* Monthly chore reminders
+ - Bills
+ - Home and object maintentance
+
+* Irregular events and TODO reminders
